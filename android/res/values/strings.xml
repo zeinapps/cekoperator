@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cek Operator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="share">Share</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1799215828167471/1130379746</string>
+    <string name="banner_ad_unit_id2">ca-app-pub-1799215828167471/1342092144</string>
+    
+</resources>
